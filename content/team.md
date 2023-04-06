@@ -23,12 +23,13 @@ draft: false
 > ## Mkarten
 >
 > CTF player | Passionate about Social Engineering.
+> And zero flag vulnerability
 >
 > [linkedin](https://www.linkedin.com/in/lucamorgado/)
 
 > ![Feitan](https://i.ibb.co/CJd5QV5/feitan.png)
 > ## Feitan
-> 
+>
 > Professional flag thief
 >
 > [Linkedin](https://www.linkedin.com/in/charles-fisman/)
