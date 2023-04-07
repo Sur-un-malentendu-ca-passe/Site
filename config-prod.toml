@@ -72,6 +72,11 @@ identifier = "about"
 name       = "About"
 url        = "about"
 weight = 5
+[[menu.main]]
+identifier = "terminal"
+name       = "Terminal"
+url        = "https://guillaumedupuy.github.io/Site-CTF/terminal.html"
+weight = 5
 
 # Social icons
 [[params.social]]
