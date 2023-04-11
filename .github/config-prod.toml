@@ -1,0 +1,92 @@
+baseurl      = "https://guillaumedupuy.github.io/Site-CTF/"
+title        = "Sur un Malentendu Ca Passe"
+languageCode = "en-en"
+DefaultContentLanguage = "en"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+disableKinds = ["RSS"]
+
+[params]
+dateform        = "2 Jan 2006"
+dateformShort   = "2 Janvier"
+dateformNum     = "02/01/2006"
+dateformNumTime = "02/01/2006 15:04"
+
+# Subtitle for home
+homeSubtitle = "Quand le malentendu devient notre allié"
+
+# Set disableReadOtherPosts to true in order to hide the links to other posts.
+disableReadOtherPosts = false
+
+# Enable sharing buttons, if you like
+enableSharingButtons = true
+
+# Metadata mostly used in document's head
+description = "Quand le malentendu devient notre allié"
+keywords = "homepage, blog"
+images = [""]
+
+# Colors for favicons
+#
+[params.favicon.color]
+mask = "#1b1c1d"
+msapplication = "#1b1c1d"
+theme = "#1b1c1d"
+
+[taxonomies]
+category = "blog"
+tag      = "tags"
+series   = "series"
+
+[languages]
+[language.en]
+title = "Sur un Malentendu Ca Passe"
+subtitle = "Quand le malentendu devient notre allié"
+keywords = ""
+copyright = 'Sur un Malentendu Ca Passe'
+readOtherPosts = "More content"
+
+[params.logo]
+logoText = "guest@smep.at"
+logoHomeLink = "/Site-CTF"
+
+[params.portrait]
+path = "https://i.ibb.co/6yrzNyt/logo-color.png"
+alt = "Sur un Malentendu Ca Passe logo"
+
+# And you can even create generic menu
+[menu]
+[[menu.main]]
+identifier = "team"
+name       = "Team"
+url        = "team"
+weight = 2
+[[menu.main]]
+identifier = "ctfs"
+name       = "CTFs"
+url        = "ctfs"
+weight = 3
+[[menu.main]]
+identifier = "about"
+name       = "About"
+url        = "about"
+weight = 5
+[[menu.main]]
+identifier = "terminal"
+name       = "Terminal"
+url        = "https://guillaumedupuy.github.io/Site-CTF/terminal.html"
+weight = 5
+
+# Social icons
+[[params.social]]
+name = "github"
+url  = "https://github.com/Sur-un-malentendu-ca-passe"
+
+[[params.social]]
+name = "ctftime"
+url  = "https://ctftime.org/team/215454"
+
+[[params.social]]
+name = "linkedin"
+url  = "https://www.linkedin.com/company/sur-un-malentendu-ca-passe/"
