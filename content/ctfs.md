@@ -6,6 +6,7 @@ draft: false
 
 List of CTFs in which we participated : 
 
+- Purple Pill Challenge : ?/40
 - CTF Hacky'Nov 2023 Aix : 11/25
 - HackDay Qualifications 2023 : 50/133
 - Break The Code : 4/30
