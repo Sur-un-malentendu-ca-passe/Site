@@ -23,7 +23,8 @@ draft: false
 > ## Mkarten
 >
 > CTF player | Passionate about Social Engineering.
-> And zero flag vulnerability
+> And zero flag vulnerability | 2022
+> False now is two flag vulnerability | 2023
 >
 > [linkedin](https://www.linkedin.com/in/lucamorgado/)
 

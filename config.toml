@@ -1,7 +1,7 @@
 baseurl      = "https://guillaumedupuy.github.io/Site-CTF/"
 title        = "Sur un Malentendu Ca Passe"
-languageCode = "en-en"
-DefaultContentLanguage = "en"
+languageCode = "en-us"
+defaultContentLanguage = "en"
 theme        = "hello-friend-ng"
 paginate     = 10
 
@@ -40,12 +40,12 @@ tag      = "tags"
 series   = "series"
 
 [languages]
-[language.en]
-title = "Sur un Malentendu Ca Passe"
-subtitle = "Quand le malentendu devient notre allié"
-keywords = ""
-copyright = 'Sur un Malentendu Ca Passe'
-readOtherPosts = "More content"
+  [languages.en]
+    title = "Sur un Malentendu Ca Passe"
+    subtitle = "Quand le malentendu devient notre allié"
+    keywords = ""
+    copyright = 'Sur un Malentendu Ca Passe'
+    readOtherPosts = "More content"
 
 [params.logo]
 logoText = "guest@smep.at"
